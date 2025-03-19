@@ -1,4 +1,3 @@
-d
 # Load Management API (Spring Boot & PostgreSQL)
 
 A REST API built with **Spring Boot** and **PostgreSQL** to manage freight loads efficiently. It allows users to **create, retrieve, update, and delete load details**.
@@ -51,8 +50,8 @@ This API helps users (shippers) to:
 ##  Installation & Setup
 ### 1️ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Load-Management-API.git
-cd Load-Management-API
+git clone https://github.com/Kartik989-max/SpringBootLoadManagement.git
+cd SpringBootLoadManagement
 ```
 
 ### 2️ Configure PostgreSQL Database
